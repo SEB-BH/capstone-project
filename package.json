@@ -1,0 +1,13 @@
+{
+  "name": "capstone-project",
+  "version": "1.0.0",
+  "description": "Software Engineering Bootcamp Capstone Project requirements and deliverables",
+  "scripts": {
+    "mdv": "node md-validate.js"
+  },
+  "type": "module",
+  "author": "General Assembly",
+  "devDependencies": {
+    "ga-mdlint": "^1.0.1"
+  }
+}
