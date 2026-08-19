@@ -11,14 +11,14 @@
 
 ### Client Track
 
-- [ ] Bootcamp logo.
+- [ ] GA logo.
 - [ ] Client logo.
 - [ ] Project name.
 - [ ] Team member names.
 
 ### Startup Track
 
-- [ ] Bootcamp logo.
+- [ ] GA logo.
 - [ ] Startup logo.
 - [ ] Startup/project name.
 - [ ] Team member names.
@@ -42,5 +42,5 @@
 
 ## Closing slide
 
-- [ ] Uses the same required bootcamp + client/startup branding as the opening slide.
+- [ ] Uses the same required GA + client/startup branding as the opening slide.
 - [ ] Includes a clear thank-you / questions prompt.
