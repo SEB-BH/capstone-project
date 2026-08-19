@@ -1,4 +1,7 @@
-# ![Capstone Project - Startup Track](./assets/hero.png)
+<h1>
+  <span class="headline">Capstone Project</span>
+  <span class="subhead">Startup Track</span>
+</h1>
 
 ## Overview
 

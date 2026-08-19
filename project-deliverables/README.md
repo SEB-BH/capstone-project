@@ -1,4 +1,7 @@
-# ![Capstone Project Deliverables](./assets/hero.png)
+<h1>
+  <span class="headline">Capstone Project</span>
+  <span class="subhead">Project Deliverables</span>
+</h1>
 
 ## Overview
 

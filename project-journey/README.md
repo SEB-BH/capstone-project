@@ -1,4 +1,7 @@
-# ![Capstone Project Journey](./assets/hero.png)
+<h1>
+  <span class="headline">Capstone Project</span>
+  <span class="subhead">Project Journey</span>
+</h1>
 
 The Capstone is structured around a professional project workflow rather than a single final deadline. You will have required deliverables throughout the two weeks to help you stay on track.
 
